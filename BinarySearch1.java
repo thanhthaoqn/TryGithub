@@ -122,5 +122,6 @@ public class BinarySearch1 {
             System.out.println("Phần tử được tìm thấy tại vị trí: " + i);
         }
     }
+     System.out.println("Phần tử không có trong mảng");
 
 }
